@@ -1,0 +1,9 @@
+//---------------------------------------------------------------------------
+
+#ifndef ModuloControlH
+#define ModuloControlH
+//---------------------------------------------------------------------------
+#endif
+
+        //Protofuncion de control.
+        void Control(void);
